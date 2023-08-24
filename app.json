@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "buzzeo",
+    "name": "Buzzeo",
     "slug": "buzzeo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,12 +8,9 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "resizeMode",
+      "backgroundColor": "#4152B5"
     },
-
-    "scheme": "your-app-scheme",
-
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
