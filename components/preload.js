@@ -1,30 +1,30 @@
 export default [
   {
     id: 1,
-    title: "Accept",
+    title: "Manage your tasks!",
     description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus a saepe praesentium molestias nesciunt vel?",
+      "Buzzeo enables easy managements of your tasks, allowing you to focus on more important stuff.",
     image: require("../assets/images/sync.png"),
   },
   {
     id: 2,
-    title: "Good Team",
+    title: "Share tasks among your team",
     description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus a saepe praesentium molestias nesciunt vel?",
+      "Easy allocation of tasks to your team members, and tracking of tasks update and progress from everyone.",
     image: require("../assets/images/team.png"),
   },
   {
     id: 3,
     title: "Automated Chat responses",
     description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus a saepe praesentium molestias nesciunt vel?",
+      "Never miss an important message, Human-like immediate responses to converstaion on your behalf.",
     image: require("../assets/images/mobile.png"),
   },
   {
     id: 4,
     title: "Schedule it all",
     description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus a saepe praesentium molestias nesciunt vel?",
+      "Social media posts? Message to your loved ones? Email follow up? Meetings? Tasks? Think of it, You can schedule them all.",
     image: require("../assets/images/time.png"),
   },
 ];
